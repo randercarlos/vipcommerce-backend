@@ -26,7 +26,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Angular 9](https://nodejs.org/en/)
+- [PHP 7.3](https://php.net)
+- [Laravel 7](https://laravel.com)
+- [MySQL 5](https://mysql.com)
+- [Docker](https://docker.com)
 
 
 ## 💻 Projeto
