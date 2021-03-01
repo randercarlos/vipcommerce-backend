@@ -48,7 +48,7 @@ O sistema possui listagem, edição, visualização e exclusão de usuários com
 
 **Windows, OS X & Linux:**
 
-Baixe o arquivo zip e o descompacte ou baixe o projeto para sua máquina através do git clone [https://github.com/randercarlos/lotus-sales-frontend.git](https://github.com/randercarlos/lotus-sales-frontend.git)
+Baixe o arquivo zip e o descompacte ou baixe o projeto para sua máquina através do git clone [https://github.com/randercarlos/vipcommerce-backend.git](https://github.com/randercarlos/vipcommerce-backend.git)
 
 
 - Entre no prompt de comando e vá até a pasta do projeto:
